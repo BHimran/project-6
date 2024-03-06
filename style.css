@@ -1,0 +1,29 @@
+.ullist{
+    list-style-type: none;
+}
+.col{
+   color: rgb(148, 181, 86);
+}
+.main{
+   background: linear-gradient(135deg,rgba(168, 159, 250, 0.996),rgb(151, 86, 37));
+    /* padding: 40px 10px 40px 10px; */
+    align-items: center;
+    margin: 100px 150px 10px 0px;
+    border-radius: 10px;
+    box-shadow: 5px 2px 10px rgb(72, 70, 70);
+}
+.col{
+    padding: 10px;
+    color: rgb(250, 233, 233);
+    font-size: 18px;
+}
+#submit{
+    background: linear-gradient(135deg,rgba(97, 105, 103, 0.996),rgb(136, 108, 106));
+    box-shadow: 5px 2px 10px rgb(66, 66, 66);
+    border: none;
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 10px 15px 10px 15px;
+    position:relative;
+    margin:0px 0px 5px 30px;
+}
